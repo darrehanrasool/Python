@@ -4,5 +4,5 @@ A collection of Python laboratory practicals, exercises, algorithmic problem-sol
 
 ## 👥 Contributors
 
-- [**Shafiya Bashir**](https://github.com/Shafiya-Bashir) (`@Shafiya-Bashir`) — Contributor
+- [**Shafiya Bashir**](https://github.com/shafiyabashirpampori) (`@shafiyabashirpampori`) — Contributor
 - [**Dar Rehan Rasool**](https://github.com/darrehanrasool) (`@darrehanrasool`) — Maintainer
